@@ -3,7 +3,7 @@ of my thesis "MAXIMIZING INFLUENCE OF SIMPLE AND COMPLEX CONTAGION ON
 REAL-WORLD NETWORKS". My studies were supported by the US Army, by whom I am
 employed, and the National Science Foundation, who fund my research through
 a Graduate Research Fellowship. I made use of many publicly available scientific
-libararies, and highlight other contributions in their place in the code.
+libraries, and highlight other contributions in their place in the code.
 In particular, there is heavy use of the following projects, to whose authors
 I offer my sincere thanks:
 
