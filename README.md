@@ -76,3 +76,6 @@ Experimental Examples
   and may be useful for reproduction. For inspection, interest, and convenience, it also
   houses all the graph information and pickles of a majority of my experimental results.
   Results pickles are typically dictionaries and can be iterated through to explore.
+  NOTE: Due to file size, I kept the randomized graphs I generated off github.  Please
+  email me if you would like a copy - they are around 50-130MB depending on which category
+  you'd like to see. 
